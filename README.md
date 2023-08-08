@@ -1,6 +1,6 @@
 ## Quick installation
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/R1M-NODES/snapshots/master/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/R1M-NODES/osmos-snapshots/master/install.sh)
 ```
 
 ## Run your own backup server with snapshots  
