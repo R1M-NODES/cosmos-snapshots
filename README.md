@@ -1,5 +1,7 @@
 ## Quick installation
-`bash <(curl -s https://raw.githubusercontent.com/R1M-NODES/snapshots/master/install.sh)`  
+```bash
+bash <(curl -s https://raw.githubusercontent.com/R1M-NODES/snapshots/master/install.sh)
+```
 
 ## Run your own backup server with snapshots  
 Install requirements  
